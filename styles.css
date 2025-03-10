@@ -1,7 +1,7 @@
 @import url(styles/header.css);
 :root{
---cor-de-fundo: #9949B4;
---cor-cabecalho: #FFFFFF;
+--cor-de-fundo: #378ad8;
+--cor-cabecalho: #0c0a0a;
 }
 body{
 background-color: var(--cor-de-fundo);
